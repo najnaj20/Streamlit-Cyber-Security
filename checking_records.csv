@@ -1,0 +1,12 @@
+Data,Description,Result
+Unsafe,Can this URL be untrusted?,False
+Domain,Domain name of the final URL after all redirections,shopee.co.id
+Domain Rank,"Estimated popularity rank of website globally. Value is ""0"" if the domain is unranked or has low traffic.",1025
+IP Address,The IP address corresponding to the server of the domain name.,143.92.85.2
+Category,"Website classification and category related to the content and industry of the site. Over 70 categories are available including ""Video Streaming"", ""Trackers"", ""Gaming"", ""Privacy"", ""Advertising"", ""Hacking"", ""Malicious"", ""Phishing"", etc. The value will be ""N/A"" if unknown",ECommerce
+Risk Score,Overall threat score from 0 (clean) to 100 (high risk).,0
+Spamming,Is this domain recently sending SPAM?,False
+Malware,"Indicates if this domain has recently hosted malware, viruses, or C2 activity.",False
+Phishing,Indicates if this site has been recently associated with known phishing techniques.,False
+Suspicious,Indicates reputation issues and potentially malicious activity,False
+Adult,	Is this URL or domain hosting dating or adult content?,False
