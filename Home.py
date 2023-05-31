@@ -213,7 +213,7 @@ if choose == "URL Checker":
     url = st.text_input('', placeholder='Enter URL', help='Enter the full URL you want to check')
     encoded_url = urllib.parse.quote(url, safe='')
     api_url_json = 'https://ipqualityscore.com/api/json/url'
-    API_KEY = '5bPlipx9etjbQRobKUTol1RjfQZP9s9J'
+    API_KEY = ''
 
     st.caption(f'''Supported by [IPQualityScore](https://www.ipqualityscore.com/).
     Compare with other URL checkers: [Google](https://transparencyreport.google.com/safe-browsing/search?url={encoded_url}), [Virus Total](https://www.virustotal.com/gui/home/url)''')
